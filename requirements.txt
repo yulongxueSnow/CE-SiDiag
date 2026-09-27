@@ -1,0 +1,21 @@
+# ============================================================
+# 轴承故障诊断实验 - Python 依赖
+# 安装: pip install -r requirements.txt
+# 或:   make install
+# ============================================================
+
+numpy>=1.23,<2.0
+pandas>=1.5
+scipy>=1.9
+scikit-learn>=1.2
+imbalanced-learn>=0.10
+joblib>=1.2
+tensorflow>=2.12
+tsfel==0.2.0
+matplotlib>=3.6
+seaborn>=0.12
+PyPDF4>=0.2
+pdfminer.six>=20221105
+pdfplumber>=0.7
+PyMuPDF>=1.20
+spacy>=3.5
